@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_pressure.png.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable-v24\\pressure.png"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient.xml.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_wind.png.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable-v24\\wind.png"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_sunrise.png.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable-v24\\sunrise.png"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_humidity.png.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable-v24\\humidity.png"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_info.png.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable-v24\\info.png"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_sunset.png.flat",
+        "source": "G:\\Developed Programes\\Android\\CairoWeather2\\app\\src\\main\\res\\drawable-v24\\sunset.png"
+    }
+]

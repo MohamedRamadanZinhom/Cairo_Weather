@@ -1,0 +1,2 @@
+com/mohamed_ramadan/code/cairoweather/BuildConfig.java
+ com.mohamed_ramadan.code.cairoweather.BuildConfig
